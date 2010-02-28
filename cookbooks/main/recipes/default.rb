@@ -24,3 +24,5 @@ end
 
 #uncomment to run the eybackup_slave recipe
 #require_recipe "eybackup_slave"
+
+require_recipe "timezone"
